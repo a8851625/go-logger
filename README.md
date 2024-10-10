@@ -13,7 +13,7 @@ Go-Logger is a simple, lightweight logging library for Go, built on top of [logr
 To install go-logger, use `go get`:
 
 ```bash
-go get gitea.heheda.vip/root/go-logger
+go get github.com/a8851625/go-logger
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ Here's a quick example of how to use logger in your Go application:
 package main
 
 import (
-    "gitea.heheda.vip/root/go-logger"
+    "github.com/a8851625/go-logger"  
 )
 
 func main() {
