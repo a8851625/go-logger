@@ -1,4 +1,4 @@
-module gitea.heheda.vip/root/go-logger
+module github.com/a8851625/go-logger
 
 go 1.22.4
 
