@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gitea.heheda.vip/root/go-logger"
+	"github.com/a8851625/go-logger"    
 )
 
 func main() {
